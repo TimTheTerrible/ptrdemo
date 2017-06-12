@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+ptrdemo
+
+# Compiled documentation
+*.ps
